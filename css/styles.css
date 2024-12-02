@@ -611,6 +611,7 @@ a:hover {
   height: 450px;
   border-radius: 20px;
   object-fit: cover;
+  margin-top: 50px;
 }
 .container .slider-scrollbar {
   height: 24px;
@@ -653,6 +654,16 @@ a:hover {
   top: -10px;
   bottom: -10px;
 }
+
+.slider-wrapper .image-list {
+  scroll-snap-type: x mandatory; /* Faz o contêiner "prender" os itens ao scroll */
+}
+
+.slider-wrapper .image-list .image-item {
+  scroll-snap-align: center; /* Alinha cada item ao centro quando parado */
+}
+
+
 /* Styles for mobile and tablets */
 @media only screen and (max-width: 1023px) {
   .slider-wrapper .slide-button {
