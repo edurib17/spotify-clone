@@ -1,7 +1,3 @@
-Aqui está um exemplo de README bem estruturado e bonito para o seu projeto no GitHub:  
-
----
-
 # 🎵 Spotify Clone - Myreilly  
 
 ![Spotify Clone](https://via.placeholder.com/1000x200.png?text=Spotify+Clone+Myreilly)  
