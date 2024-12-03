@@ -1,8 +1,14 @@
+Aqui está o README atualizado com o link da aplicação:  
+
+---
+
 # 🎵 Spotify Clone - Myreilly  
 
 ![Spotify Clone](https://via.placeholder.com/1000x200.png?text=Spotify+Clone+Myreilly)  
 
 Bem-vindo ao **Spotify Clone**, um projeto acadêmico desenvolvido para apresentar na faculdade. Este projeto é uma réplica estilizada da interface do Spotify, com funcionalidades visuais criadas utilizando **HTML**, **CSS** e o framework **Bootstrap**. Além disso, conta com uma **promoção especial**, onde os usuários têm a chance de ganhar ingressos para o festival **The Town**!  
+
+👉 **Acesse a aplicação ao vivo aqui:** [Spotify Clone - Myreilly](https://spotify-clone-project-v1.netlify.app/)  
 
 ---
 
@@ -47,6 +53,8 @@ O destaque do projeto é a **promoção exclusiva**, incentivando a interação 
    cd spotify-clone
    ```  
 3. Abra o arquivo `index.html` no seu navegador favorito.  
+
+👉 Ou acesse diretamente a aplicação hospedada: [Spotify Clone - Myreilly](https://spotify-clone-project-v1.netlify.app/)  
 
 ---
 
@@ -100,7 +108,7 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga os 
    ```  
 5. Abra um Pull Request.  
 
----  
+---
 
 Se você gostou do projeto, não esqueça de deixar uma ⭐ no repositório!  
 
@@ -110,4 +118,4 @@ Se você gostou do projeto, não esqueça de deixar uma ⭐ no repositório!
 
 --- 
 
-Caso precise de mais detalhes ou ajustes, é só avisar! 😊
+Se precisar de mais ajustes, é só avisar! 😊
